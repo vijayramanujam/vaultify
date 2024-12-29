@@ -1,0 +1,38 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Python environment files
+*.env
+*.venv
+env.bak/
+*.bak
+*.swp
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Password storage file (sensitive data, don't want it in version control)
+passwords.pkl
+
